@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/novaro-pub/novaro-cli/releases/download/v0.1.1/novaro_0.1.1_windows_amd64.zip",
+      "url": "https://github.com/novaro-pub/novaro-cli/releases/download/v0.1.2/novaro_0.1.2_windows_amd64.zip",
       "bin": ["novaro.exe"],
-      "hash": "10ae644e26a2812bc8db48705ce7841901fa9ea05577bb5e014aebadab9cdaa3"
+      "hash": "ac613c961b363f72008b3a00a68888bf153183be55caba13eefb24818fc630d2"
     },
     "arm64": {
-      "url": "https://github.com/novaro-pub/novaro-cli/releases/download/v0.1.1/novaro_0.1.1_windows_arm64.zip",
+      "url": "https://github.com/novaro-pub/novaro-cli/releases/download/v0.1.2/novaro_0.1.2_windows_arm64.zip",
       "bin": ["novaro.exe"],
-      "hash": "936b91df4778378f37a71584a99d0ae2d04461b3b2688368fda8ce5afb6f2e00"
+      "hash": "f0be8621de7f06807e109f0751638d1f5b4f9c8410913d3f684ba7d379e80f5a"
     }
   },
   "homepage": "https://github.com/novaro-pub/novaro-cli",
